@@ -547,10 +547,7 @@ button.see_more:hover {
     margin-left: 148px;
         height: 545px;
 }
-.animatedParent {
-    width: 100%;
-    height: 545px;
-}
+
 .team-con .team .team-overlay {
     position: absolute;
     left: 0;
