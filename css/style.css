@@ -538,7 +538,7 @@ button.see_more:hover {
     /* margin-left: 65px; */
     margin: auto;
 }
-.col-lg-4.col-md-4.vol-wrap.team {
+.col-lg-4.col-md-4.col-xs-4.vol-wrap.team {
     padding: 0px;
     max-width: 367px;
     /* margin-left: 62px; */
