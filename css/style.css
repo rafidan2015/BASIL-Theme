@@ -544,7 +544,9 @@ button.see_more:hover {
     /* margin-left: 62px; */
 }
 .full_team {
-    margin-left: 148px;
+    margin: 15px;
+    padding: 0px 10px 10px 115px;
+    height: 545px;
 }
 
 .team-con .team .team-overlay {
