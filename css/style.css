@@ -7,7 +7,7 @@ body{
 .container-fluid {
     padding-right: 0px !important;
     padding-left: 0px !important;
-    margin-right: auto;
+    margin-right:0px !important;
     margin-left: auto;
 }
 .row{
@@ -544,9 +544,7 @@ button.see_more:hover {
     /* margin-left: 62px; */
 }
 .full_team {
-    margin: 0px 100px;
-    padding: 0px 0px 10px 10px;
-    height: 545px;
+    margin-left: 148px;
 }
 
 .team-con .team .team-overlay {
